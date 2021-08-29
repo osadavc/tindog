@@ -20,7 +20,6 @@ p {
 h2 {
   font-size: 3rem;
   line-height: 1.5;
-
 }
 
 h3 {
@@ -185,7 +184,7 @@ h3 {
   margin-top: 10px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 991.98px) {
   .title-image {
     position: static;
     transform: rotate(0deg);
